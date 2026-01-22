@@ -3,8 +3,7 @@
   "documentation": {
     "enable": true,
     "manualPages": {
-      "running-tests.md": "getting-started",
-      "writing-tests.md": "advanced"
+      "automated-testing": "contributing"
     }
   }
 }
